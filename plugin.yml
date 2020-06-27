@@ -1,0 +1,9 @@
+---
+name: ColorfulArmor
+api: 3.0.0, 4.0.0
+main: Eforce\ColorfulArmor\Loader
+author: Eforce
+
+version: "1.0"
+description: "colorfularmor is a armor that changes color!"
+...
