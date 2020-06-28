@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/eforce67/ColorfulArmor
+build-by-default: true
+branches:
+- master
+projects:
+  ColorfulArmor:
+    path: ""
+...
